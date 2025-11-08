@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Plone\n"
-"POT-Creation-Date: 2024-03-22T12:43:34.158Z\n"
+"POT-Creation-Date: 2025-11-08T00:32:10.714Z\n"
 "Last-Translator: Plone i18n <plone-i18n@lists.sourceforge.net>\n"
 "Language-Team: Plone i18n <plone-i18n@lists.sourceforge.net>\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -12,3 +12,44 @@ msgstr ""
 "Language-Name: English\n"
 "Preferred-Encodings: utf-8\n"
 "Domain: volto\n"
+
+#. Default: "Email"
+#: components/Blocks/AcumbamailSubscribe/Edit
+#: components/Blocks/AcumbamailSubscribe/View
+msgid "Email"
+msgstr ""
+
+#. Default: "Error subscribing. Please try again later."
+#: components/Blocks/AcumbamailSubscribe/View
+msgid "Error subscribing. Please try again later."
+msgstr ""
+
+#. Default: "Save and view to test the submission."
+#: components/Blocks/AcumbamailSubscribe/Edit
+msgid "Save and view to test the submission."
+msgstr ""
+
+#. Default: "Sending..."
+#: components/Blocks/AcumbamailSubscribe/View
+msgid "Sending..."
+msgstr ""
+
+#. Default: "Subscribe"
+#: components/Blocks/AcumbamailSubscribe/View
+msgid "Subscribe"
+msgstr ""
+
+#. Default: "Subscription Form"
+#: components/Blocks/AcumbamailSubscribe/View
+msgid "Subscription Form"
+msgstr ""
+
+#. Default: "Subscription completed successfully!"
+#: components/Blocks/AcumbamailSubscribe/View
+msgid "Subscription completed successfully!"
+msgstr ""
+
+#. Default: "Your email"
+#: components/Blocks/AcumbamailSubscribe/View
+msgid "Your email"
+msgstr ""

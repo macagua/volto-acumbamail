@@ -3,17 +3,58 @@ msgstr ""
 "Project-Id-Version: Plone\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-09 11:45-0400\n"
-"PO-Revision-Date: 2023-05-10 11:34-0400\n"
+"PO-Revision-Date: 2025-11-08 01:34+0100\n"
 "Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
-"Language: es\n"
 "Language-Team: ES <LL@li.org>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Preferred-Encodings: utf-8\n"
-"MIME-Version: 1.0\n"
 "Language-Code: es\n"
 "Language-Name: Español\n"
 "Domain: volto\n"
 "X-Is-Fallback-For: es-ar es-bo es-cl es-co es-cr es-do es-ec es-es es-sv es-gt es-hn es-mx es-ni es-pa es-py es-pe es-pr es-us es-uy es-ve\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 3.7\n"
+
+#. Default: "Email"
+#: components/Blocks/AcumbamailSubscribe/Edit
+#: components/Blocks/AcumbamailSubscribe/View
+msgid "Email"
+msgstr "Correo electrónico"
+
+#. Default: "Error subscribing. Please try again later."
+#: components/Blocks/AcumbamailSubscribe/View
+msgid "Error subscribing. Please try again later."
+msgstr "Error al suscribirse. Inténtalo de nuevo más tarde."
+
+#. Default: "Save and view to test the submission."
+#: components/Blocks/AcumbamailSubscribe/Edit
+msgid "Save and view to test the submission."
+msgstr "Guarde y vea para probar el envío."
+
+#. Default: "Sending..."
+#: components/Blocks/AcumbamailSubscribe/View
+msgid "Sending..."
+msgstr "Enviando..."
+
+#. Default: "Subscribe"
+#: components/Blocks/AcumbamailSubscribe/View
+msgid "Subscribe"
+msgstr "Suscribirse"
+
+#. Default: "Subscription Form"
+#: components/Blocks/AcumbamailSubscribe/View
+msgid "Subscription Form"
+msgstr "Formulario de suscripción"
+
+#. Default: "Subscription completed successfully!"
+#: components/Blocks/AcumbamailSubscribe/View
+msgid "Subscription completed successfully!"
+msgstr "¡Suscripción completada con éxito!"
+
+#. Default: "Your email"
+#: components/Blocks/AcumbamailSubscribe/View
+msgid "Your email"
+msgstr "Tu correo electrónico"

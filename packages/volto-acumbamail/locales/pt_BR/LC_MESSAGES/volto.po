@@ -15,3 +15,44 @@ msgstr ""
 "Language-Name: Português do Brasil\n"
 "Preferred-Encodings: utf-8\n"
 "Domain: volto\n"
+
+#. Default: "Email"
+#: components/Blocks/AcumbamailSubscribe/Edit
+#: components/Blocks/AcumbamailSubscribe/View
+msgid "Email"
+msgstr ""
+
+#. Default: "Error subscribing. Please try again later."
+#: components/Blocks/AcumbamailSubscribe/View
+msgid "Error subscribing. Please try again later."
+msgstr ""
+
+#. Default: "Save and view to test the submission."
+#: components/Blocks/AcumbamailSubscribe/Edit
+msgid "Save and view to test the submission."
+msgstr ""
+
+#. Default: "Sending..."
+#: components/Blocks/AcumbamailSubscribe/View
+msgid "Sending..."
+msgstr ""
+
+#. Default: "Subscribe"
+#: components/Blocks/AcumbamailSubscribe/View
+msgid "Subscribe"
+msgstr ""
+
+#. Default: "Subscription Form"
+#: components/Blocks/AcumbamailSubscribe/View
+msgid "Subscription Form"
+msgstr ""
+
+#. Default: "Subscription completed successfully!"
+#: components/Blocks/AcumbamailSubscribe/View
+msgid "Subscription completed successfully!"
+msgstr ""
+
+#. Default: "Your email"
+#: components/Blocks/AcumbamailSubscribe/View
+msgid "Your email"
+msgstr ""
