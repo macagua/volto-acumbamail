@@ -1,13 +1,13 @@
 # Volto Acumbamail (volto-acumbamail)
 
-[![Acumbamail](https://raw.githubusercontent.com/macagua/volto-acumbamail/refs/heads/main/docs/docs/_static/logo.svg)](https://acumbamail.com/)
-
-A volto add-on that integrates [Acumbamail](https://acumbamail.com/) service with Plone
-
 [![npm](https://img.shields.io/npm/v/volto-acumbamail)](https://www.npmjs.com/package/volto-acumbamail)
 [![](https://img.shields.io/badge/-Storybook-ff4785?logo=Storybook&logoColor=white&style=flat-square)](https://collective.github.io/volto-acumbamail/)
 [![Code analysis checks](https://github.com/collective/volto-acumbamail/actions/workflows/code.yml/badge.svg)](https://github.com/collective/volto-acumbamail/actions/workflows/code.yml)
 [![Unit tests](https://github.com/collective/volto-acumbamail/actions/workflows/unit.yml/badge.svg)](https://github.com/collective/volto-acumbamail/actions/workflows/unit.yml)
+
+[![Acumbamail](https://raw.githubusercontent.com/macagua/volto-acumbamail/refs/heads/main/docs/docs/_static/logo.svg)](https://acumbamail.com/)
+
+A volto add-on that integrates [Acumbamail](https://acumbamail.com/) service with Plone
 
 ## Features
 
