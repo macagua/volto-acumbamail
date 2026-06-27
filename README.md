@@ -29,6 +29,15 @@ A volto add-on that integrates [Acumbamail](https://acumbamail.com/) service wit
 
 To use this product in Plone CMS, your Plone CMS project needs to include a new add-on: https://github.com/macagua/collective.volto.acumbamail
 
+## Translations
+
+This product has been translated into
+
+- English
+- German
+- Spanish
+- Brazilian portuguese
+
 ## Installation
 
 To install your project, you must choose the method appropriate to your version of Volto.
