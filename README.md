@@ -13,6 +13,18 @@ A volto add-on that integrates [Acumbamail](https://acumbamail.com/) service wit
 
 - Add a new subscriber to the Acumbamail list.
 
+## Screenshot
+
+<img width="290" alt="image" src="https://raw.githubusercontent.com/macagua/volto-acumbamail/refs/heads/main/docs/images/addon-configuration-acumbamail-icon.png">
+
+---
+
+<img width="720" alt="image" src="https://raw.githubusercontent.com/macagua/volto-acumbamail/refs/heads/main/docs/images/acumbamail-settings.png">
+
+## Backend integration
+
+To use this product in Plone CMS, your Plone CMS project needs to include a new add-on: https://github.com/macagua/collective.volto.acumbamail
+
 ## Installation
 
 To install your project, you must choose the method appropriate to your version of Volto.
