@@ -15,11 +15,11 @@ A volto add-on that integrates [Acumbamail](https://acumbamail.com/) service wit
 
 ## Screenshot
 
-<img width="290" alt="image" src="https://raw.githubusercontent.com/macagua/volto-acumbamail/refs/heads/main/docs/images/addon-configuration-acumbamail-icon.png">
+<img width="290" alt="image" src="https://raw.githubusercontent.com/macagua/volto-acumbamail/refs/heads/main/docs/docs/images/addon-configuration-acumbamail-icon.png">
 
 ---
 
-<img width="720" alt="image" src="https://raw.githubusercontent.com/macagua/volto-acumbamail/refs/heads/main/docs/images/acumbamail-settings.png">
+<img width="720" alt="image" src="https://raw.githubusercontent.com/macagua/volto-acumbamail/refs/heads/main/docs/docs/images/acumbamail-settings.png">
 
 ## Backend integration
 
