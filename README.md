@@ -263,7 +263,7 @@ make acceptance-test
 
 ## License
 
-The project is licensed under the MIT license.
+The project is licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 ## Credits and acknowledgements 🙏
 
