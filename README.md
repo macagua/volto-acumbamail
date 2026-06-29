@@ -29,15 +29,6 @@ A volto add-on that integrates [Acumbamail](https://acumbamail.com/) service wit
 
 To use this product in Plone CMS, your Plone CMS project needs to include a new add-on: https://github.com/macagua/collective.volto.acumbamail
 
-## Translations
-
-This product has been translated into
-
-- English
-- German
-- Spanish
-- Brazilian portuguese
-
 ## Installation
 
 To install your project, you must choose the method appropriate to your version of Volto.
@@ -48,22 +39,53 @@ To install your project, you must choose the method appropriate to your version 
 Add `volto-acumbamail` to your `package.json`:
 
 ```json
+"addons": [
+    "volto-acumbamail": "*"
+]
+```
+
+```json
 "dependencies": {
     "volto-acumbamail": "*"
 }
 ```
 
-Add `volto-acumbamail` to your `volto.config.js`:
+#### Install from Github
 
-```javascript
-const addons = ['volto-acumbamail'];
+If you trying to install from Github you need edit the `mrs.developer.json` file:
+
+```json
+{
+  "volto-acumbamail": {
+    "develop": true,
+    "output": "./packages/",
+    "package": "volto-acumbamail",
+    "url": "git@github.com:collective/volto-acumbamail.git",
+    "https": "https://github.com/collective/volto-acumbamail.git",
+    "branch": "main"
+  }
+}
 ```
 
-If this package provides a Volto theme, and you want to activate it, then add the following to your `volto.config.js`:
+The `mrs.developer.json` is using by an NodeJS utility called `mrs.developer` that makes
+it easy to work with NPM projects containing lots of packages, of which you only want to
+develop some.
 
-```javascript
-const theme = 'volto-acumbamail';
+Also add `volto-acumbamail` to your `package.json`:
+
+```json
+"addons": [
+    "volto-acumbamail": "*"
+]
 ```
+
+```json
+"dependencies": {
+    "volto-acumbamail": "workspace:*",
+}
+```
+
+---
 
 ### Volto 17 and earlier
 
